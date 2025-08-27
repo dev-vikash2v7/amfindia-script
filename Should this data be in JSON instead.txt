@@ -1,0 +1,4 @@
+TSV  is simple and lightweight for tabular  data. It’s good for analyzing the data . However
+JSON format is better only if we have to use data in APIs for developers.
+
+So , if this data is used by developers JSON is better otherwise for only analysis  TSV is good choice .
